@@ -1,55 +1,95 @@
-# 👋 Hey, I'm Ajit Singh
+# Hey, I'm Ajit Singh 👋
 
-### Software Engineer · Frontend & Product Engineering
+### Software Engineer | Frontend & Full-Stack Development
 
-**I build interfaces, solve engineering problems, and turn ideas into products.**
+**Building scalable applications, crafting intuitive user experiences, and solving real engineering problems.**
 
-I'm a software engineer focused on modern web development, clean architecture, and creating intuitive user experiences.
-
-- 🔭 **Building:** [Movie Blackout](https://github.com/contactajitsingh07-del/movie-blackout-live) — a multiplayer movie-guessing game
-- 💻 **Core stack:** React, TypeScript, JavaScript, Node.js
-- 🧪 **Engineering interests:** UI architecture, testing, performance, and developer tooling
-- 🤖 **Exploring:** AI-powered applications and automation
+I'm a software engineer with **3+ years of experience** building modern web applications, enterprise software, and data-driven products. I enjoy working across the stack, from designing responsive frontend interfaces to developing backend services and integrating databases.
 
 ---
 
-### 🧰 TECHNOLOGIES
+## 🧑‍💻 ABOUT ME
 
-**Frontend**  
-React · TypeScript · JavaScript · HTML · CSS
-
-**Backend & Data**  
-Node.js · REST APIs · Supabase · SQL
-
-**Engineering Tools**  
-Git · GitHub Actions · Playwright · Vite
+- 💻 3+ years of experience in software engineering
+- ⚛️ Specialized in React, TypeScript, JavaScript, and frontend architecture
+- ☕ Experienced with Java, Spring Boot, Node.js, and REST APIs
+- 🏗️ Interested in scalable architecture, micro-frontends, and performance optimization
+- 🗄️ Enjoy working with SQL, MongoDB, and data-driven applications
+- 🚀 Currently building [Movie Blackout](https://github.com/contactajitsingh07-del/movie-blackout-live), a multiplayer movie-guessing game
 
 ---
 
-### 🚀 FEATURED PROJECTS
+## 🛠️ TECH STACK
 
-**🎬 Movie Blackout**  
-A multiplayer movie-guessing game built around interactive gameplay and real-time experiences.
+**Frontend Development**
+
+React.js · JavaScript · TypeScript · Redux · React Context API · HTML5 · CSS3 · Material UI
+
+**Backend Development**
+
+Java · Spring Boot · Node.js · Express.js · REST APIs
+
+**Databases & Data**
+
+SQL · MongoDB · Redis · Supabase
+
+**Architecture & Performance**
+
+Micro-frontends · Webpack · Vite · Code Splitting · Lazy Loading · Internationalization (i18n)
+
+**Testing & Developer Tools**
+
+Git · GitHub Actions · Playwright · Jest · Cypress · React Testing Library
+
+**Cloud & Platforms**
+
+AWS · Docker · CI/CD
+
+---
+
+## 🚀 FEATURED PROJECTS
+
+### 🎬 Movie Blackout
+
+A multiplayer movie-guessing game focused on interactive gameplay, engaging challenges, and shared gaming experiences.
+
+**Tech:** React · TypeScript · Supabase · Playwright
 
 [Explore the repository →](https://github.com/contactajitsingh07-del/movie-blackout-live)
 
----
+### 🧩 Data-Driven Web Applications
 
-### 📈 WHAT I'M FOCUSED ON
+Building interactive interfaces for complex datasets, with an emphasis on usability, reusable components, and maintainable frontend architecture.
 
-- Building production-quality web applications
-- Writing maintainable, testable code
-- Improving frontend architecture and performance
-- Exploring practical applications of AI
+**Tech:** React · TypeScript · JavaScript · SQL
 
----
+### 🌍 Internationalization & Localization
 
-### 🤝 LET'S CONNECT
+Developing multilingual user experiences with structured translation management and reusable localization patterns.
 
-I'm always interested in discussing software engineering, product ideas, and interesting technical challenges.
-
-[GitHub](https://github.com/contactajitsingh07-del) · [Email](mailto:contactajit.singh07@gmail.com)
+**Tech:** React · JavaScript · i18n
 
 ---
 
-<sub>Designed with curiosity. Built with code. Improved with every commit.</sub>
+## ⚡ ENGINEERING FOCUS
+
+- **Frontend engineering:** Building responsive, reusable, and accessible user interfaces.
+- **Backend development:** Designing APIs and services using Java, Spring Boot, and Node.js.
+- **Performance:** Improving rendering, application loading, and frontend bundle efficiency.
+- **Architecture:** Creating modular applications with maintainable code and clear separation of concerns.
+- **Data & databases:** Working with SQL, relational data, and API-driven applications.
+- **Software quality:** Writing testable code and building reliable applications through automated testing.
+
+---
+
+## 🤝 LET'S CONNECT
+
+I'm interested in frontend engineering, full-stack development, scalable systems, and building useful products.
+
+📧 **Email:** [contactajit.singh07@gmail.com](mailto:contactajit.singh07@gmail.com)
+
+💻 **GitHub:** [@contactajitsingh07-del](https://github.com/contactajitsingh07-del)
+
+---
+
+<sub>Build thoughtfully. Ship reliably. Keep learning.</sub>
